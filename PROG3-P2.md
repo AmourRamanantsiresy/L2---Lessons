@@ -23,4 +23,4 @@
     heritage: override
     type primitive sans **null**
 
-
+8- L'utilisateur peut fournir l'id lorsqu'il peut garentir l'unicité de chaque id. 
